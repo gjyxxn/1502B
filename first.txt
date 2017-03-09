@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 first commit  branches2 hahahahaha
+=======
+
+
+first commit 222
+>>>>>>> c34f3fb2a9346950517251f492f3084313b023ae
